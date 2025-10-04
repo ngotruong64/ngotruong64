@@ -8,9 +8,9 @@ My long-term goal is to **apply advanced technologies to accelerate the developm
 ---
 
 ## 🎓 Education
-- **M.Sc. in Control & Automation Engineering**, HCMUT (2025 – present)  
+- **M.Sc. in Control & Automation Engineering**, Ho Chi Minh University of Technology (2025 – present)  
   Focus: Robotics, Autonomous Systems, AI Vision  
-- **B.Eng. in Industrial Automation**, University of Transport and Communications  
+- **B.Eng. in Industrial Automation**, Ho Chi Minh University of Transport
   GPA: 8.6/10, Scholarship for 3 consecutive semesters
 
 ---
@@ -40,5 +40,5 @@ My long-term goal is to **apply advanced technologies to accelerate the developm
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/ngoquoctruong/)  
-- [YouTube](https://www.youtube.com/@basictutorial)  
+- [YouTube](https://www.youtube.com/@basictutorial982)  
 - [Email](mailto:truong.ngoquoc64@gmail.com)
